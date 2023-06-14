@@ -42,7 +42,7 @@ h1{
     justify-content: space-around;
     margin-top: 10px;
     border: 1px solid black;
-    background: url("/Images/Alaye.jpeg.jpeg");
+    background: url("./Images/Alaye.jpeg.jpeg");
     background-size: cover;
     background-position: center;
 }
